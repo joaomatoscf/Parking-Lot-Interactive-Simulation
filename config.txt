@@ -1,0 +1,64 @@
+ZER 29 3 R4
+ZER 29 2 R3
+ZER 29 1 R2
+ZER 29 0 R1
+ZE 24 8 E52 branco 
+ZE 24 7 E51 branco 
+ZE 24 6 E50 branco 
+ZE 24 5 E49 branco 
+ZE 18 6 E48 branco 
+ZE 18 5 E47 branco 
+ZE 18 4 E46 vermelho AA0020
+ZE 18 3 E45 vermelho AA0019
+ZE 12 6 E44 branco 
+ZE 12 5 E43 branco 
+ZE 12 4 E42 vermelho AA0018
+ZE 12 3 E41 vermelho AA0017
+ZE 5 8 E40 cinzento 
+ZE 5 7 E39 branco 
+ZE 5 6 E38 branco 
+ZE 5 5 E37 branco 
+ZE 4 4 E36 vermelho AA0016
+ZE 4 3 E35 vermelho AA0015
+ZE 4 2 E34 vermelho AA0014
+ZE 0 4 E33 vermelho AA0013
+ZE 0 3 E32 vermelho AA0012
+ZE 0 2 E31 branco 
+ZE 20 0 E30 branco 
+ZE 19 0 E29 vermelho AA0011
+ZE 18 0 E28 branco 
+ZE 17 0 E27 vermelho AA0010
+ZE 16 0 E26 branco 
+ZE 15 0 E25 branco 
+ZE 14 0 E24 vermelho AA0009
+ZE 13 0 E23 cinzento 
+ZE 12 0 E22 branco 
+ZE 11 0 E21 branco 
+ZE 17 6 E20 branco 
+ZE 16 6 E19 branco 
+ZE 15 6 E18 vermelho AA0008
+ZE 14 6 E17 vermelho AA0007
+ZE 13 6 E16 branco 
+ZE 29 8 E15 branco 
+ZE 28 8 E14 cinzento 
+ZE 27 8 E13 vermelho AA0006
+ZE 26 8 E12 vermelho AA0005
+ZE 25 8 E11 branco 
+ZE 4 8 E10 branco 
+ZE 3 8 E09 branco 
+ZE 2 8 E08 vermelho AA0004
+ZE 1 8 E07 branco 
+ZE 0 8 E06 cinzento 
+ZE 17 9 E05 vermelho AA0003
+ZE 16 9 E04 vermelho AA0002
+ZE 15 9 E03 vermelho AA0001
+ZE 14 9 E02 branco 
+ZE 13 9 E01 branco 
+ZR 13 3 5 3 Z3 azul
+ZR 25 5 5 3 Z2 verde
+ZR 0 5 5 3 Z1 verde
+OUT 24 0
+IN 26 0
+JG 30 10
+ES 30 50
+
